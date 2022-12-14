@@ -1676,9 +1676,9 @@ Available statuses:
 
 ___
 
-## SMART Staking
+## Crypto Lеnding
 
-This API provides endpoints for interacting with SMART Staking: getting active plans, creating/closing investments, retrieving investments/interest payments history.
+This API provides endpoints for interacting with Crypto Lеnding: getting active plans, creating/closing investments, retrieving investments/interest payments history.
 
 These endpoints are available only for B2B partner services, you need to contact support@whitebit.com in order to get permissions to use these endpoints.
 
@@ -1688,7 +1688,7 @@ These endpoints are available only for B2B partner services, you need to contact
 [POST] /api/v4/main-account/smart/plans
 ```
 
-This endpoint retrieves all active SMART plans
+This endpoint retrieves all active plans
 
 **Parameters:**
 
